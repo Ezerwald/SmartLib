@@ -1,6 +1,7 @@
 from typing import Optional, Tuple
 from PyPDF2 import PdfFileReader
 
+
 class MetadataExtractor:
     """Extracts metadata from a PDF file."""
 
