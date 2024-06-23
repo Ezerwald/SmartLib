@@ -15,5 +15,4 @@ filenames = [
     "UMLDistilledSecondEditionABriefGuidetotheStandard.chm"
 ]
 
-directory_path = 'C:\\Users\\kyshc\\Books'
-goodreads_api_key = None
+directory_path = 'C:/Users/kyshc/Books'

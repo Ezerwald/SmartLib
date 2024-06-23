@@ -1,4 +1,2 @@
-from process_dict import process_dict
-from configs import filenames
+if __name__ == "__main__":...
 
-process_dict(filenames)
