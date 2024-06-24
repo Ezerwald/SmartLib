@@ -15,4 +15,6 @@ filenames = [
     "UMLDistilledSecondEditionABriefGuidetotheStandard.chm"
 ]
 
-directory_path = 'C:/Users/kyshc/Books'
+DATABASE_PATH = r'C:\Users\kyshc\Work\Programming\SmartLib\all_books.db'
+FILES_PATH = r'C:\Users\kyshc\Books'
+

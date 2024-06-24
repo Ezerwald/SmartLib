@@ -50,7 +50,8 @@ class BookInfoExtractor:
         """
         if not title:
             print('No title found')
-            title = filepath
+            filename = filepath.split('\\')[-1]
+            title = filename
         if not author:
             print('No author found')
             author = "No author found"
